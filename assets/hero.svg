@@ -1,0 +1,73 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B14"/>
+      <stop offset="0.48" stop-color="#10152B"/>
+      <stop offset="1" stop-color="#08131C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="220" y1="70" x2="930" y2="285" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="0.5" stop-color="#F472B6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientTransform="translate(210 80) rotate(34) scale(330 220)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientTransform="translate(1040 300) rotate(-150) scale(350 190)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06B6D4" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+    <filter id="textGlow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#94A3B8" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glow1)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glow2)"/>
+
+  <circle cx="96" cy="76" r="72" fill="#8B5CF6" fill-opacity="0.08" filter="url(#blur)"/>
+  <circle cx="1110" cy="286" r="96" fill="#22D3EE" fill-opacity="0.08" filter="url(#blur)"/>
+
+  <g opacity="0.45" stroke="url(#accent)" stroke-width="1.5">
+    <path d="M55 286H162L190 258H264"/>
+    <path d="M936 83H1022L1050 111H1142"/>
+    <circle cx="55" cy="286" r="4" fill="#A78BFA" stroke="none"/>
+    <circle cx="264" cy="258" r="4" fill="#F472B6" stroke="none"/>
+    <circle cx="936" cy="83" r="4" fill="#22D3EE" stroke="none"/>
+    <circle cx="1142" cy="111" r="4" fill="#22D3EE" stroke="none"/>
+  </g>
+
+  <g transform="translate(78 84)">
+    <rect width="70" height="70" rx="18" fill="#FFFFFF" fill-opacity="0.055" stroke="#A78BFA" stroke-opacity="0.45"/>
+    <path d="M24 24L14 35L24 46M46 24L56 35L46 46M39 17L31 53" stroke="url(#accent)" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="178" y="120" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="4">SOFTWARE ENGINEER • BUILDER • 2027</text>
+  <text x="78" y="208" fill="url(#accent)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="-1.5" filter="url(#textGlow)">THOTA NAVADEEP</text>
+  <text x="80" y="251" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="500">Full-stack systems · AI agents · reliable product engineering</text>
+
+  <g transform="translate(80 286)">
+    <rect width="373" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.055" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <circle cx="21" cy="20" r="5" fill="#22D3EE"/>
+    <text x="38" y="26" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">state + evidence + policy → reliable AI</text>
+  </g>
+
+  <g opacity="0.85">
+    <circle cx="1009" cy="188" r="3" fill="#A78BFA"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="1047" cy="156" r="2.5" fill="#F472B6"><animate attributeName="opacity" values="1;0.25;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1085" cy="206" r="2.5" fill="#22D3EE"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1123" cy="170" r="2" fill="#A78BFA"><animate attributeName="opacity" values="1;0.2;1" dur="3.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="358.5" rx="27.25" stroke="url(#accent)" stroke-opacity="0.28" stroke-width="1.5"/>
+</svg>
