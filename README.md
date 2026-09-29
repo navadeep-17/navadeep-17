@@ -52,6 +52,25 @@ I like building software where **the hard part is not just getting an AI model t
 
 ---
 
+## 🎨 Portfolio Highlights
+
+<div align="center">
+
+<img src="./assets/portfolio-showcase.svg" alt="Portfolio highlights showcase" width="100%" />
+
+<br/>
+
+<a href="https://github.com/navadeep-17/SkillTwin"><img src="https://img.shields.io/badge/SkillTwin-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="SkillTwin" /></a>
+<a href="https://github.com/navadeep-17/RecoverAI"><img src="https://img.shields.io/badge/RecoverAI-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="RecoverAI" /></a>
+<a href="https://github.com/navadeep-17/decisionDNA"><img src="https://img.shields.io/badge/DecisionDNA-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="DecisionDNA" /></a>
+<a href="https://github.com/navadeep-17/JettyShare"><img src="https://img.shields.io/badge/JettyShare-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="JettyShare" /></a>
+<a href="https://github.com/navadeep-17/signal-post"><img src="https://img.shields.io/badge/Signalpost-D97706?style=for-the-badge&logo=github&logoColor=white" alt="Signalpost" /></a>
+<a href="https://github.com/navadeep-17/InterviewExperience"><img src="https://img.shields.io/badge/RoundRelay-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="RoundRelay" /></a>
+
+</div>
+
+---
+
 ## 🚀 Featured Builds
 
 <table>
