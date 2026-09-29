@@ -4,7 +4,8 @@
 
 <br/>
 
-<a href="https://github.com/navadeep-17"><img src="https://img.shields.io/badge/GitHub-navadeep--17-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://www.linkedin.com/in/navadeep-thota-3086932b8/"><img src="https://img.shields.io/badge/LinkedIn-Navadeep%20Thota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+<a href="https://leetcode.com/u/uLy018lbuP/"><img src="https://img.shields.io/badge/LeetCode-uLy018lbuP-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" /></a>
 <a href="https://skilltwin-production.up.railway.app"><img src="https://img.shields.io/badge/Live-SkillTwin-06B6D4?style=for-the-badge&logo=railway&logoColor=white" alt="SkillTwin live" /></a>
 <a href="https://RoundRelay.vercel.app"><img src="https://img.shields.io/badge/Live-RoundRelay-EC4899?style=for-the-badge&logo=vercel&logoColor=white" alt="RoundRelay live" /></a>
 
