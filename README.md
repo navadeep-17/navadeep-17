@@ -5,14 +5,19 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Software+Engineer+%7C+Full-Stack+Builder;AI+Agents+%7C+Reliable+Systems+%7C+Product+Engineering;Building+systems+that+can+explain+what+they+did+and+why" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=Software+Engineer+%7C+Full-Stack+Builder;AI+Agents+%7C+Reliable+Systems+%7C+Product+Engineering;Turning+AI+reasoning+into+reliable+software+systems" alt="Typing introduction" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-2027-8B5CF6?style=for-the-badge" alt="B.Tech 2027" />
-<img src="https://img.shields.io/badge/Focus-Software%20Engineering-06B6D4?style=for-the-badge" alt="Software Engineering" />
-<img src="https://img.shields.io/badge/Building-Agentic%20Systems-EC4899?style=for-the-badge" alt="Agentic Systems" />
+<a href="https://github.com/navadeep-17"><img src="https://img.shields.io/badge/GitHub-navadeep--17-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="#-portfolio-highlights"><img src="https://img.shields.io/badge/View-Projects-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" alt="View projects" /></a>
+<a href="https://skilltwin-production.up.railway.app"><img src="https://img.shields.io/badge/Live-SkillTwin-06B6D4?style=for-the-badge&logo=railway&logoColor=white" alt="SkillTwin live" /></a>
+<a href="https://RoundRelay.vercel.app"><img src="https://img.shields.io/badge/Live-RoundRelay-EC4899?style=for-the-badge&logo=vercel&logoColor=white" alt="RoundRelay live" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=navadeep-17&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" alt="Profile views" />
 
 </div>
 
