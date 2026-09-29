@@ -4,20 +4,9 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=Software+Engineer+%7C+Full-Stack+Builder;AI+Agents+%7C+Reliable+Systems+%7C+Product+Engineering;Turning+AI+reasoning+into+reliable+software+systems" alt="Typing introduction" />
-</a>
-
-<br/>
-
 <a href="https://github.com/navadeep-17"><img src="https://img.shields.io/badge/GitHub-navadeep--17-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="#-portfolio-highlights"><img src="https://img.shields.io/badge/View-Projects-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" alt="View projects" /></a>
 <a href="https://skilltwin-production.up.railway.app"><img src="https://img.shields.io/badge/Live-SkillTwin-06B6D4?style=for-the-badge&logo=railway&logoColor=white" alt="SkillTwin live" /></a>
 <a href="https://RoundRelay.vercel.app"><img src="https://img.shields.io/badge/Live-RoundRelay-EC4899?style=for-the-badge&logo=vercel&logoColor=white" alt="RoundRelay live" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=navadeep-17&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -25,17 +14,11 @@
 
 ## ⚡ About Me
 
-```text
-> final-year engineering student
-> software engineer in the making
-> full-stack product builder
-> interested in systems where AI has memory, state, policy and evidence
-> currently sharpening DSA + CS fundamentals + backend/system design
-```
-
-I like building software where **the hard part is not just getting an AI model to answer** — it is making the whole product reliable: persistence, authorization, validation, deterministic guardrails, observability, concurrency, deployment, and measurable outcomes.
-
-> 🏆 **Amazon ML Challenge 2026 — Rank 1325 among 10,000+ teams that submitted.**
+- Final-year **B.Tech student** graduating in **2027**
+- Interested in **software engineering, backend systems, full-stack products, and AI agents**
+- I like building systems where **state, evidence, policy, and outcomes** matter as much as the model itself
+- Currently sharpening **DSA, CS fundamentals, backend engineering, and system design**
+- 🏆 **Amazon ML Challenge 2026 — Rank 1325 among 10,000+ teams that submitted**
 
 ---
 
@@ -57,25 +40,6 @@ I like building software where **the hard part is not just getting an AI model t
 
 ---
 
-## 🎨 Portfolio Highlights
-
-<div align="center">
-
-<img src="./assets/portfolio-showcase.svg" alt="Portfolio highlights showcase" width="100%" />
-
-<br/>
-
-<a href="https://github.com/navadeep-17/SkillTwin"><img src="https://img.shields.io/badge/SkillTwin-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="SkillTwin" /></a>
-<a href="https://github.com/navadeep-17/RecoverAI"><img src="https://img.shields.io/badge/RecoverAI-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="RecoverAI" /></a>
-<a href="https://github.com/navadeep-17/decisionDNA"><img src="https://img.shields.io/badge/DecisionDNA-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="DecisionDNA" /></a>
-<a href="https://github.com/navadeep-17/JettyShare"><img src="https://img.shields.io/badge/JettyShare-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="JettyShare" /></a>
-<a href="https://github.com/navadeep-17/signal-post"><img src="https://img.shields.io/badge/Signalpost-D97706?style=for-the-badge&logo=github&logoColor=white" alt="Signalpost" /></a>
-<a href="https://github.com/navadeep-17/InterviewExperience"><img src="https://img.shields.io/badge/RoundRelay-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="RoundRelay" /></a>
-
-</div>
-
----
-
 ## 🚀 Featured Builds
 
 <table>
@@ -83,12 +47,18 @@ I like building software where **the hard part is not just getting an AI model t
 <td width="50%" valign="top">
 
 ### 🧠 SkillTwin
+<img src="https://img.shields.io/badge/AI%20Learning-8B5CF6?style=flat-square" alt="AI Learning" />
 
 **Evidence-backed adaptive learning agent**
 
 Builds a living learner model, identifies role-specific skill gaps, generates adaptive roadmaps, validates progress, and explains why plans change.
 
-**Stack:** Next.js · TypeScript · Supabase · PostgreSQL · Gemini · React Flow
+**Highlights**
+- Learner memory + role-based gap analysis
+- Adaptive roadmaps with assessment-driven replanning
+- Production-style full-stack workflow with Supabase + Gemini
+
+**Stack:** `Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `Gemini` · `React Flow`
 
 [**Repository ↗**](https://github.com/navadeep-17/SkillTwin) · [**Live App ↗**](https://skilltwin-production.up.railway.app)
 
@@ -96,12 +66,18 @@ Builds a living learner model, identifies role-specific skill gaps, generates ad
 <td width="50%" valign="top">
 
 ### 💳 RecoverAI
+<img src="https://img.shields.io/badge/Fintech%20Agent-DB2777?style=flat-square" alt="Fintech Agent" />
 
 **Policy-governed revenue recovery agent**
 
-Closed-loop orchestration with deterministic safety policy, durable workflows, human review, outcome verification, concurrency controls, and auditability.
+Closed-loop orchestration with deterministic safety policy, durable workflows, human review, outcome verification, and auditable outcomes.
 
-**Stack:** TypeScript · Fastify · PostgreSQL · Prisma · pg-boss · React · Gemini
+**Highlights**
+- Durable workflow orchestration for recovery actions
+- Human review + policy guardrails before execution
+- Verification and auditability built into the recovery loop
+
+**Stack:** `TypeScript` · `Fastify` · `PostgreSQL` · `Prisma` · `pg-boss` · `React` · `Gemini`
 
 [**Repository ↗**](https://github.com/navadeep-17/RecoverAI)
 
@@ -111,12 +87,18 @@ Closed-loop orchestration with deterministic safety policy, durable workflows, h
 <td width="50%" valign="top">
 
 ### 🧬 DecisionDNA
+<img src="https://img.shields.io/badge/Decision%20Intelligence-0891B2?style=flat-square" alt="Decision Intelligence" />
 
 **Organizational decision-memory system**
 
 Remembers what was decided, why it was decided, and the evidence behind it — then detects when later events invalidate the original assumptions.
 
-**Stack:** Next.js · TypeScript · Hindsight · Supabase · PostgreSQL
+**Highlights**
+- Captures decisions, evidence, assumptions, and outcomes
+- Detects “decision drift” when old assumptions stop holding
+- Built for explainability and human review
+
+**Stack:** `Next.js` · `TypeScript` · `Hindsight` · `Supabase` · `PostgreSQL`
 
 [**Repository ↗**](https://github.com/navadeep-17/decisionDNA)
 
@@ -124,12 +106,18 @@ Remembers what was decided, why it was decided, and the evidence behind it — t
 <td width="50%" valign="top">
 
 ### ⚓ JettyShare
+<img src="https://img.shields.io/badge/Realtime%20Product-0EA5E9?style=flat-square" alt="Realtime Product" />
 
 **Realtime harbor surplus exchange**
 
-Atomic claims, claim-bound pickup verification, capability-based authorization, realtime invalidation, and concurrency-safe lifecycle transitions.
+A mobile-first system for sharing surplus resources with atomic claims, pickup verification, realtime invalidation, and secure capability-based flows.
 
-**Stack:** Next.js · TypeScript · Supabase · PostgreSQL · Realtime · Vercel
+**Highlights**
+- Concurrency-safe claim flow and lifecycle transitions
+- Pickup verification tied to active claims
+- Realtime inventory invalidation and updates
+
+**Stack:** `Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `Realtime` · `Vercel`
 
 [**Repository ↗**](https://github.com/navadeep-17/JettyShare) · [**Live App ↗**](https://jettyshare.vercel.app)
 
@@ -139,12 +127,18 @@ Atomic claims, claim-bound pickup verification, capability-based authorization, 
 <td width="50%" valign="top">
 
 ### 🔎 Signalpost
+<img src="https://img.shields.io/badge/Data%20%2B%20Provenance-D97706?style=flat-square" alt="Data and Provenance" />
 
 **Evidence-backed company intelligence pipeline**
 
 Resolves company identities, gathers qualified public evidence, preserves provenance, and emits auditable structured intelligence without inventing missing facts.
 
-**Stack:** Python · Data Pipelines · OCR · Evidence Systems
+**Highlights**
+- Qualified evidence collection with provenance tracking
+- Structured intelligence outputs with traceable sources
+- Designed to abstain when evidence is insufficient
+
+**Stack:** `Python` · `Data Pipelines` · `OCR` · `Evidence Systems`
 
 [**Repository ↗**](https://github.com/navadeep-17/signal-post)
 
@@ -152,12 +146,18 @@ Resolves company identities, gathers qualified public evidence, preserves proven
 <td width="50%" valign="top">
 
 ### 🎯 RoundRelay
+<img src="https://img.shields.io/badge/Student%20Platform-7C3AED?style=flat-square" alt="Student Platform" />
 
 **Production-deployed interview experience platform**
 
-Students share recruitment journeys, discuss interview rounds, explore peer profiles, and communicate through realtime direct and department messaging.
+Students share recruitment journeys, discuss rounds, explore peer profiles, and communicate through realtime direct and department messaging.
 
-**Stack:** React · Vite · Node.js · Express · MongoDB · Socket.IO
+**Highlights**
+- Student-first interview experience sharing workflow
+- Realtime messaging and profile-based community interaction
+- Full-stack CRUD + authentication + discussion system
+
+**Stack:** `React` · `Vite` · `Node.js` · `Express` · `MongoDB` · `Socket.IO`
 
 [**Repository ↗**](https://github.com/navadeep-17/InterviewExperience) · [**Live App ↗**](https://RoundRelay.vercel.app)
 
