@@ -4,6 +4,12 @@
 
 <br/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=Software+Engineer+%7C+Full-Stack+Builder;Backend+Systems+%7C+AI+Agents+%7C+System+Design;Building+reliable+products+around+intelligent+systems" alt="Animated role tagline" />
+</a>
+
+<br/>
+
 <a href="https://www.linkedin.com/in/navadeep-thota-3086932b8/"><img src="https://img.shields.io/badge/LinkedIn-Navadeep%20Thota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 <a href="https://leetcode.com/u/uLy018lbuP/"><img src="https://img.shields.io/badge/LeetCode-uLy018lbuP-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" /></a>
 <a href="https://skilltwin-production.up.railway.app"><img src="https://img.shields.io/badge/Live-SkillTwin-06B6D4?style=for-the-badge&logo=railway&logoColor=white" alt="SkillTwin live" /></a>
