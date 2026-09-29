@@ -171,12 +171,16 @@ Students share recruitment journeys, discuss rounds, explore peer profiles, and 
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=navadeep-17&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE" alt="Navadeep's GitHub stats" />
-<img height="175" src="https://streak-stats.demolab.com?user=navadeep-17&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=7D8590" alt="Navadeep's GitHub streak" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navadeep-17&theme=github_dark" alt="Navadeep's GitHub profile details" />
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navadeep-17&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used public repository languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navadeep-17&theme=github_dark" alt="Navadeep's GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navadeep-17&theme=github_dark" alt="Languages across Navadeep's public repositories" />
+
+<br/>
+
+<img height="175" src="https://streak-stats.demolab.com?user=navadeep-17&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=7D8590" alt="Navadeep's GitHub streak" />
 
 </div>
 
