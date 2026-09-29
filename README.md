@@ -81,11 +81,13 @@ Final-year B.Tech student graduating in 2027, building end-to-end software produ
 </td>
 <td width="50%" valign="top">
 
-### 🎯 [InterviewExperience](https://github.com/navadeep-17/InterviewExperience)
+### 🎯 [RoundRelay](https://github.com/navadeep-17/InterviewExperience)
 
-**Full-stack interview experience platform** designed for students to share recruitment journeys, discuss interview rounds, and learn from senior placement and internship experiences.
+**Production-deployed interview experience platform** for students to share recruitment journeys, discuss rounds and questions, and connect through realtime messaging.
 
-`React` `JavaScript` `Node.js` `Express` `MongoDB` `JWT`
+`React` `Vite` `Node.js` `Express` `MongoDB` `Socket.IO`
+
+[Live App](https://RoundRelay.vercel.app)
 
 </td>
 </tr>
